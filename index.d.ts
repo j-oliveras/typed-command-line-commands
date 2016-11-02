@@ -8,7 +8,7 @@ declare namespace commandLineCommands {
 
   export interface CommandsResult {
     command: string;
-    argv: Array<string>
+    argv: Array<string>;
   }
 }
 
